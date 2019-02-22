@@ -13,7 +13,7 @@ h2{
 .date{
   color: #3498db;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 0.2rem;
 }
 
 p:nth-of-type(1){
