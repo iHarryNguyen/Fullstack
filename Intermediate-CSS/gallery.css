@@ -2,8 +2,13 @@ body{
   font-family: 'Roboto Mono', monospace;
   background: #29648A;
 }
-.navi{
-  background-color: #2E9CCA;
+
+a.navbar-brand{
+  color:#FFFFFF;
+}
+
+.navbar-nav .nav-link{
+  color:#FFFFFF;
 }
 
 .img-thumbnail{
@@ -30,10 +35,12 @@ body{
 
 #front-title{
   text-align: center;
+  color: #FFFFFF;
 }
 #comment{
   margin-top: 2rem;
   text-align: center;
+  color:#FFFFFF
 }
 
 #navbarNavAltMarkup{
