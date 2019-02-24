@@ -1,0 +1,15 @@
+-----------------------------------------------------------------------------
+Making an image fill entire background:
+
+background-size:cover;
+background-position:center;
+
+THEN alter HTML
+
+html{
+height:100%;
+}
+
+-----------------------------------------------------------------------------
+Navs automatically have flexbox components
+-----------------------------------------------------------------------------
