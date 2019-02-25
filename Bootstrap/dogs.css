@@ -1,0 +1,8 @@
+body{
+  background: #98FE8D;
+font-family: 'Nunito', sans-serif;
+}
+
+.nav-item:hover{
+  border: 2px solid #98FE8D;
+}
