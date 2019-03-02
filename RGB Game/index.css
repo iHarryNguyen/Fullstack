@@ -1,0 +1,63 @@
+body {
+  background-color: black;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  border-radius: 6px;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+button {
+  height: 100%;
+  width: 100px;
+  border-radius: 8px;
+}
+
+button:hover {
+  background-color: rgb(66, 184, 221);
+  color: white;
+}
+
+.square {
+  width: 30%;
+  background: white;
+  padding-bottom: 30%;
+  float: left;
+  margin: 1.66%;
+  border-radius: 30px;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+#stripe {
+  background-color: white;
+  height: 3rem;
+  text-align: center;
+  border-radius: 10px;
+}
+
+#message {
+  color: black;
+  margin-left: 50px;
+}
+
+#Question {
+  padding-top: 2.0rem;
+  padding-bottom: 2.0rem;
+}
+
+#colorCode {
+  padding-bottom: 2.0rem;
+}
